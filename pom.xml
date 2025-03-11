@@ -4,7 +4,7 @@
 
     <groupId>irctc</groupId>
     <artifactId>irctc</artifactId>
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
 
     <name>in.irctc.www</name>
     <description>The in.irctc.www WAR bundle</description>
